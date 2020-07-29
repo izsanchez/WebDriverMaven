@@ -37,6 +37,10 @@ public class LoginTest {
 		driver.findElement(By.id("identifierNext")).click();
 		Thread.sleep(2000);
 		
+		/**
+		 *  Adding new comments*
+		 */
+		
 	}
 	
 	@AfterTest
